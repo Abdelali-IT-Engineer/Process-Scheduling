@@ -1,0 +1,8 @@
+# Process configuration file
+
+# Process name  Arrival time  CPU burst time
+A 1 2
+B 2 5
+C 2 11
+D 3 6
+E 5 13
